@@ -17,7 +17,7 @@ Me apasiona el **desarrollo backend y frontend**, la **administración de sistem
 
 - 🎓 Estudiante de Ingeniería en Redes y Telecomunicaciones (énfasis en Sistemas)
 - 💻 Enfocado en backend con **Python + FastAPI**, y frontend con **Angular**
-- 🐧 Cómodo administrando sistemas **Linux**
+- 🐧 Administración de sistemas **Linux**
 - 🌐 Base sólida en **redes (Cisco)**
 - 📍 Barranquilla, Colombia — Abierto a trabajo **remoto o presencial**
 
