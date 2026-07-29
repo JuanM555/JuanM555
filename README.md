@@ -51,15 +51,11 @@ I'm passionate about **backend and frontend development**, **Linux systems admin
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mssql,mongodb" alt="Backend and Databases"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Backend and Databases"/>
 
 **Tools & Design**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,photoshop" alt="Tools and Design"/>
-
-**Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,linux" alt="Cloud and DevOps"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,docker,linux" alt="Tools and Design"/>
 
 <br/>
 
@@ -102,12 +98,6 @@ I'm passionate about **backend and frontend development**, **Linux systems admin
 
 <br/>
 
-## 🚀 Featured projects
-
-> _My best repositories will be showcased here soon, each with a short description. You can also pin them directly from your GitHub profile so they appear automatically at the top of your page._
-
-<br/>
-
 ## 📫 Contact
 
 <div align="center">
@@ -122,8 +112,4 @@ I'm passionate about **backend and frontend development**, **Linux systems admin
 
 </div>
 
-<br/>
 
-<div align="center">
-  <sub>Open to remote and on-site opportunities 🚀</sub>
-</div>
