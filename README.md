@@ -45,17 +45,17 @@ I'm passionate about **backend and frontend development**, **Linux systems admin
 
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,js" alt="Languages"/>
 
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,docker,linux" alt="Tools and Design"/>
+
 **Frameworks**
 
 <img src="https://skillicons.dev/icons?i=fastapi,angular,svelte" alt="Frameworks"/>
 
-**Backend & Databases**
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Backend and Databases"/>
-
-**Tools & Design**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,docker,linux" alt="Tools and Design"/>
 
 <br/>
 
