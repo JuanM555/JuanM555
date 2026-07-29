@@ -2,10 +2,8 @@
 
 <!-- Banner de texto animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%26+FastAPI;Frontend+Developer+%7C+Angular;Estudiante+de+Redes+y+Telecomunicaciones;Linux+%26+Sysadmin+Enthusiast;Buscando+mi+primera+oportunidad+profesional+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%26+FastAPI;Frontend+Developer+%7C+Angular;Estudiante+de+Redes+y+Telecomunicaciones;Linux+%26+Sysadmin" alt="Typing SVG" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=JuanM555&label=Visitas+al+perfil&color=a855f7&style=flat-square" alt="visitor badge"/>
 
 </div>
 
@@ -21,7 +19,6 @@ Me apasiona el **desarrollo backend y frontend**, la **administración de sistem
 - 💻 Enfocado en backend con **Python + FastAPI**, y frontend con **Angular**
 - 🐧 Cómodo administrando sistemas **Linux**
 - 🌐 Base sólida en **redes (Cisco)**
-- 🚀 Buscando mi **primera oportunidad profesional** para seguir creciendo como desarrollador backend y administrador de sistemas
 - 📍 Barranquilla, Colombia — Abierto a trabajo **remoto o presencial**
 
 <br/>
@@ -31,11 +28,11 @@ Me apasiona el **desarrollo backend y frontend**, la **administración de sistem
 ```text
 🐍 Backend (Python/FastAPI)  ██████████████░░  85%
 🅰️  Frontend (Angular)       ████████████░░░░  75%
-🐧 Linux / Sysadmin          ████████████░░░░  75%
-🔧 Git / GitHub              ███████████░░░░░  70%
+🐧 Linux / Sysadmin          ███████████░░░░░  70%
 🌐 Redes (Cisco)             ███████████░░░░░  70%
-🗄️  Bases de datos SQL/NoSQL ██████████░░░░░░  65%
 🐳 Docker                    █████████░░░░░░░  60%
+🔧 Git / GitHub              ████████████░░░░  75%
+🗄️  Bases de datos SQL/NoSQL ██████████░░░░░░  65%
 ```
 
 <br/>
