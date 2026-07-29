@@ -28,11 +28,11 @@ Me apasiona el **desarrollo backend y frontend**, la **administración de sistem
 ```text
 🐍 Backend (Python/FastAPI)  ██████████████░░  85%
 🅰️  Frontend (Angular)       ████████████░░░░  75%
+🌐 Redes (Cisco)             ████████████░░░░  75%
 🐧 Linux / Sysadmin          ███████████░░░░░  70%
-🌐 Redes (Cisco)             ███████████░░░░░  70%
+🗄️  Bases de datos SQL/NoSQL ███████████░░░░░  70%
+🔧 Git / GitHub              ██████████░░░░░░  65%
 🐳 Docker                    █████████░░░░░░░  60%
-🔧 Git / GitHub              ████████████░░░░  75%
-🗄️  Bases de datos SQL/NoSQL ██████████░░░░░░  65%
 ```
 
 <br/>
