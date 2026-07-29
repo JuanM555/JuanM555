@@ -28,13 +28,13 @@ I'm passionate about **backend and frontend development**, **Linux systems admin
 ## 🧠 Skill level
 
 ```text
-🐍 Backend (Python/FastAPI)  ██████████████░░  85%
+🐍 Backend (Python/FastAPI)   ██████████████░░  85%
 🅰️  Frontend (Angular/Svelte) ████████████░░░░  75%
-🐧 Linux / Sysadmin          ███████████░░░░░  70%
-🌐 Networking (Cisco)        ███████████░░░░░  70%
-🐳 Docker                    █████████░░░░░░░  60%
-🔧 Git / GitHub              ████████████░░░░  75%
-🗄️  SQL/NoSQL Databases      ██████████░░░░░░  65%
+🌐 Networking (Cisco)         ████████████░░░░  75%
+🗄️  SQL/NoSQL Databases       ███████████░░░░░  70%
+🐧 Linux / Sysadmin           ███████████░░░░░  70%
+🔧 Git / GitHub               █████████░░░░░░░  60%
+🐳 Docker                     █████████░░░░░░░  60%
 ```
 
 <br/>
