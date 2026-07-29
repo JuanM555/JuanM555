@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Welcome+to+my+profile%2C+I'm+Juan;Backend+Developer+%7C+Python+%26+FastAPI;Frontend+Developer+%7C+Angular+%26+Svelte;Networking+%26+Systems+Engineering+Student;Linux+%26+Sysadmin" alt="Typing SVG" />
 </a>
 
-<p><i>Don't just look at the code — I architect ideas, connect systems, and turn complexity into working solutions.</i></p>
+<p><i>Driven by curiosity. Built with code. Constantly learning, creating, and solving real-world problems through technology.</i></p>
 
 </div>
 
