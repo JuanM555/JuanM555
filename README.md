@@ -1,85 +1,69 @@
 <div align="center">
 
-<!-- Banner de texto animado -->
+<!-- Animated typing banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%26+FastAPI;Frontend+Developer+%7C+Angular;Estudiante+de+Redes+y+Telecomunicaciones;Linux+%26+Sysadmin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Welcome+to+my+profile%2C+I'm+Juan;Backend+Developer+%7C+Python+%26+FastAPI;Frontend+Developer+%7C+Angular+%26+Svelte;Networking+%26+Systems+Engineering+Student;Linux+%26+Sysadmin+Enthusiast" alt="Typing SVG" />
 </a>
+
+<p><i>Don't just look at the code — I architect ideas, connect systems, and turn complexity into working solutions.</i></p>
 
 </div>
 
 <br/>
 
-## 👋 Sobre mí
+## 👋 About me
 
-Soy **Juan Miguel De Moya Candanoza**, estudiante de **Ingeniería en Redes y Telecomunicaciones con énfasis en Sistemas**, ubicado en Barranquilla, Colombia.
+I'm **Juan Miguel De Moya Candanoza**, a **Networking and Telecommunications Engineering student with an emphasis in Systems**, based in Barranquilla, Colombia.
 
-Me apasiona el **desarrollo backend y frontend**, la **administración de sistemas Linux** y el diseño de soluciones tecnológicas usando **Python y FastAPI**. También disfruto entender cómo funcionan las redes y la infraestructura que sostiene las aplicaciones que construyo.
+I'm passionate about **backend and frontend development**, **Linux systems administration**, and designing technology solutions using **Python and FastAPI**. I also enjoy understanding how networks and infrastructure work behind the applications I build.
 
-- 🎓 Estudiante de Ingeniería en Redes y Telecomunicaciones (énfasis en Sistemas)
-- 💻 Enfocado en backend con **Python + FastAPI**, y frontend con **Angular**
-- 🐧 Administración de sistemas **Linux**
-- 🌐 Base sólida en **redes (Cisco)**
-- 📍 Barranquilla, Colombia — Abierto a trabajo **remoto o presencial**
+- 🎓 Networking and Telecommunications Engineering student (Systems emphasis)
+- 💻 Focused on backend with **Python + FastAPI**, and frontend with **Angular** and **Svelte**
+- 🐧 Comfortable administering **Linux** systems
+- 🌐 Solid foundation in **networking (Cisco)**
+- 📍 Barranquilla, Colombia — Open to **remote or on-site** work
 
 <br/>
 
-## 🧠 Nivel de experiencia
+## 🧠 Skill level
 
 ```text
 🐍 Backend (Python/FastAPI)  ██████████████░░  85%
-🅰️  Frontend (Angular)       ████████████░░░░  75%
-🌐 Redes (Cisco)             ████████████░░░░  75%
+🅰️  Frontend (Angular/Svelte) ████████████░░░░  75%
 🐧 Linux / Sysadmin          ███████████░░░░░  70%
-🗄️  Bases de datos SQL/NoSQL ███████████░░░░░  70%
-🔧 Git / GitHub              ██████████░░░░░░  65%
+🌐 Networking (Cisco)        ███████████░░░░░  70%
 🐳 Docker                    █████████░░░░░░░  60%
+🔧 Git / GitHub              ████████████░░░░  75%
+🗄️  SQL/NoSQL Databases      ██████████░░░░░░  65%
 ```
 
 <br/>
 
-## 🛠️ Stack tecnológico
+## 🛠️ Tech stack
 
-**Backend**
+**Languages**
 
-<img src="https://img.shields.io/badge/Python-2B0A3D?style=for-the-badge&logo=python&logoColor=A855F7" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-2B0A3D?style=for-the-badge&logo=fastapi&logoColor=A855F7" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/REST%20APIs-2B0A3D?style=for-the-badge&logo=swagger&logoColor=A855F7" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/JWT-2B0A3D?style=for-the-badge&logo=jsonwebtokens&logoColor=A855F7" alt="JWT"/>
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,js" alt="Languages"/>
 
-**Frontend**
+**Frameworks**
 
-<img src="https://img.shields.io/badge/Angular-2B0A3D?style=for-the-badge&logo=angular&logoColor=A855F7" alt="Angular"/>
-<img src="https://img.shields.io/badge/HTML5-2B0A3D?style=for-the-badge&logo=html5&logoColor=A855F7" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-2B0A3D?style=for-the-badge&logo=css3&logoColor=A855F7" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-2B0A3D?style=for-the-badge&logo=javascript&logoColor=A855F7" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=fastapi,angular,svelte" alt="Frameworks"/>
 
-**Lenguajes adicionales**
+**Backend & Databases**
 
-<img src="https://img.shields.io/badge/Java-2B0A3D?style=for-the-badge&logo=openjdk&logoColor=A855F7" alt="Java"/>
-<img src="https://img.shields.io/badge/Kotlin-2B0A3D?style=for-the-badge&logo=kotlin&logoColor=A855F7" alt="Kotlin"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mssql,mongodb" alt="Backend and Databases"/>
 
-**Infraestructura y herramientas**
+**Tools & Design**
 
-<img src="https://img.shields.io/badge/Linux-2B0A3D?style=for-the-badge&logo=linux&logoColor=A855F7" alt="Linux"/>
-<img src="https://img.shields.io/badge/Docker-2B0A3D?style=for-the-badge&logo=docker&logoColor=A855F7" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-2B0A3D?style=for-the-badge&logo=git&logoColor=A855F7" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-2B0A3D?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Cisco%20Networking-2B0A3D?style=for-the-badge&logo=cisco&logoColor=A855F7" alt="Cisco"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,photoshop" alt="Tools and Design"/>
 
-**Bases de datos**
+**Cloud & DevOps**
 
-<img src="https://img.shields.io/badge/PostgreSQL-2B0A3D?style=for-the-badge&logo=postgresql&logoColor=A855F7" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-2B0A3D?style=for-the-badge&logo=mysql&logoColor=A855F7" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL%20Server-2B0A3D?style=for-the-badge&logo=microsoftsqlserver&logoColor=A855F7" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/MongoDB-2B0A3D?style=for-the-badge&logo=mongodb&logoColor=A855F7" alt="MongoDB"/>
-
-**IA**
-
-<img src="https://img.shields.io/badge/Inteligencia%20Artificial-2B0A3D?style=for-the-badge&logo=openai&logoColor=A855F7" alt="IA"/>
+<img src="https://skillicons.dev/icons?i=docker,linux" alt="Cloud and DevOps"/>
 
 <br/>
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -98,18 +82,18 @@ Me apasiona el **desarrollo backend y frontend**, la **administración de sistem
 
 <br/>
 
-## 🐍 Actividad de contribuciones
+## 🐍 Contribution activity
 
 <div align="center">
 
-<!-- Se genera con GitHub Actions, ver instrucciones en el mensaje -->
+<!-- Generated with GitHub Actions -->
 <img src="https://raw.githubusercontent.com/JuanM555/JuanM555/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 </div>
 
 <br/>
 
-## 📜 Certificaciones
+## 📜 Certifications
 
 - 🏅 **Cisco CCNAv7:** Introduction to Networks
 - 🏅 **Cisco CCNA:** Switching, Routing and Wireless Essentials
@@ -118,13 +102,13 @@ Me apasiona el **desarrollo backend y frontend**, la **administración de sistem
 
 <br/>
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-> _Pronto agregaré aquí mis mejores repositorios con una breve descripción de cada uno. También puedes fijarlos (pin) directamente desde tu perfil de GitHub para que aparezcan destacados automáticamente en la parte superior de tu página._
+> _My best repositories will be showcased here soon, each with a short description. You can also pin them directly from your GitHub profile so they appear automatically at the top of your page._
 
 <br/>
 
-## 📫 Contacto
+## 📫 Contact
 
 <div align="center">
 
@@ -141,5 +125,5 @@ Me apasiona el **desarrollo backend y frontend**, la **administración de sistem
 <br/>
 
 <div align="center">
-  <sub>Abierto a oportunidades remotas y presenciales 🚀</sub>
+  <sub>Open to remote and on-site opportunities 🚀</sub>
 </div>
