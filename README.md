@@ -89,15 +89,6 @@ I'm passionate about **backend and frontend development**, **Linux systems admin
 
 <br/>
 
-## 📜 Certifications
-
-- 🏅 **Cisco CCNAv7:** Introduction to Networks
-- 🏅 **Cisco CCNA:** Switching, Routing and Wireless Essentials
-- 🏅 **Python Essentials 1**
-- 🏅 **Python Essentials 2**
-
-<br/>
-
 ## 📫 Contact
 
 <div align="center">
